@@ -133,7 +133,7 @@ export default function CourseDetailClient({ course, courseId }: CourseDetailCli
                   </div>
                   <div className="flex items-center">
                     <Award className="w-4 h-4 mr-2" />
-                    {course.projects} projects
+                    {course.projects_no} projects
                   </div>
                 </div>
 
